@@ -17,10 +17,10 @@ I'm Brian Rono and a very interesting person with a diverse set of interests and
     Front-end web development using modern frameworks like React
     Version control with Git and best practices for collaborative development
     Code quality, testing, and debugging strategies
-- 📫 How to reach me:   Email: brianrono16@gmail.com 
-                        LinkedIn: linkedin.com/in/brian-rono-915223113 
-                        Twitter: @brian_kipkorir_ 
-                        Instagram: @brian_kipkorir_
+- 📫 How to reach me:   -Email: brianrono16@gmail.com 
+                        -LinkedIn: linkedin.com/in/brian-rono-915223113 
+                        -Twitter: @brian_kipkorir_ 
+                        -Instagram: @brian_kipkorir_
 - 😄 Pronouns: Him
     Let's foster an inclusive community where everyone feels respected and valued!
 - ⚡ Here's a fun fact about me:
