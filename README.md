@@ -14,18 +14,20 @@ I'm Brian Rono and a very interesting person with a diverse set of interests and
     Understanding advanced data structures and algorithms
     Implementing effective testing strategies for my projects
 - 💬 I'm always happy to share my knowledge and experiences with others. Feel free to ask me about:
-    Front-end web development using modern frameworks like React
-    Version control with Git and best practices for collaborative development
-    Code quality, testing, and debugging strategies
+    #Front-end web development using modern frameworks like React
+    #Version control with Git and best practices for collaborative development
+    #Code quality, testing, and debugging strategies
+-📫 How to reach me:   
+    #Email: brianrono16@gmail.com 
+    #LinkedIn: linkedin.com/in/brian-rono
+    #Twitter: @brian_kipkorir_
+    #Instagram: @brian_kipkorir_ 
 - 😄 Pronouns: Him
     Let's foster an inclusive community where everyone feels respected and valued!
 - ⚡ Here's a fun fact about me:
     Despite my quiet personality and introverted nature, I love engaging in discussions and collaborating with others on meaningful projects. While I may not be the loudest voice in the room, I bring a thoughtful and analytical approach to problem-solving, and I enjoy deep conversations and exchanging ideas with fellow developers.
-📫 How to reach me:   
-    -Email: brianrono16@gmail.com 
-    -LinkedIn: linkedin.com/in/brian-rono
-    -Twitter: @brian_kipkorir_ 
-    -Instagram: @brian_kipkorir_  
+
+ 
 ### Education
 - 2017-2020 Bachelor's Degree in Purchasing and Supplies Management, Dedan Kimathi University of Technology
 - 2023-     Moringa School 
