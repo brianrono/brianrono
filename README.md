@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Brian Rono and a very interesting person with a diverse set of interests and I've come to enjoy coding, keeping up with the latest technology trends, which shows my passion for innovation. Although I consider myself an introvert, it's not synonymous with shyness or lack of social skills. I have a social side and I strive to create a positive and collaborative environment wherever I go. So, don't hesitate to reach out and connect, even if I may appear quiet at first glance. I'm always open to new conversations and collaborations! Let's work together to create amazing things! I love exploring new technologies and pushing the boundaries of what's possible in software development and I'm always open to networking and engaging with the community! 
+![Colorful Background](https://e0.pxfuel.com/wallpapers/459/183/desktop-wallpaper-dark-colorful-1080-x-2160-blue-and-black.jpg)
 
 ### About
 - 🔭 I’m currently working on a web application that helps car owners find genuine parts for their vehicles.
@@ -16,7 +17,10 @@ I'm Brian Rono and a very interesting person with a diverse set of interests and
     Front-end web development using modern frameworks like React
     Version control with Git and best practices for collaborative development
     Code quality, testing, and debugging strategies
-- 📫 How to reach me: Email: brianrono16@gmail.com LinkedIn: linkedin.com/in/brian-rono-915223113 Twitter: @brian_kipkorir_ Instagram: @brian_kipkorir_
+- 📫 How to reach me:   Email: brianrono16@gmail.com 
+                        LinkedIn: linkedin.com/in/brian-rono-915223113 
+                        Twitter: @brian_kipkorir_ 
+                        Instagram: @brian_kipkorir_
 - 😄 Pronouns: Him
     Let's foster an inclusive community where everyone feels respected and valued!
 - ⚡ Here's a fun fact about me:
@@ -49,3 +53,10 @@ I'm Brian Rono and a very interesting person with a diverse set of interests and
 ### GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=brianrono&show_icons=true&theme=transparent)
 
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianrono)](https://github.com/brianrono/github-readme-stats)
+### Wakatime Stats
+<!--START_SECTION:waka-->
+<!-- Add your Wakatime stats markdown code here -->
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=brianrono&layout=compact)](https://wakatime.com/@brio16)
+<!--END_SECTION:waka-->
