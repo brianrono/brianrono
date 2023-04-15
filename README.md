@@ -17,10 +17,11 @@ I'm Brian Rono and a very interesting person with a diverse set of interests and
     Front-end web development using modern frameworks like React
     Version control with Git and best practices for collaborative development
     Code quality, testing, and debugging strategies
-- 📫 How to reach me:   -Email: brianrono16@gmail.com 
-                        -LinkedIn: linkedin.com/in/brian-rono-915223113 
-                        -Twitter: @brian_kipkorir_ 
-                        -Instagram: @brian_kipkorir_
+- 📫 How to reach me:   
+-Email: brianrono16@gmail.com 
+    -LinkedIn: linkedin.com/in/brian-rono
+    -Twitter: @brian_kipkorir_ 
+    -Instagram: @brian_kipkorir_                      
 - 😄 Pronouns: Him
     Let's foster an inclusive community where everyone feels respected and valued!
 - ⚡ Here's a fun fact about me:
@@ -58,5 +59,5 @@ I'm Brian Rono and a very interesting person with a diverse set of interests and
 ### Wakatime Stats
 <!--START_SECTION:waka-->
 <!-- Add your Wakatime stats markdown code here -->
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=brianrono&layout=compact)](https://wakatime.com/@brio16)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=brianrono&layout=compact)](https://wakatime.com/@brianrono)
 <!--END_SECTION:waka-->
