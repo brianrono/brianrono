@@ -18,14 +18,15 @@ I'm Brian Rono and a very interesting person with a diverse set of interests and
     #Version control with Git and best practices for collaborative development
     #Code quality, testing, and debugging strategies
 -📫 How to reach me:   
-    #Email: brianrono16@gmail.com 
-    #LinkedIn: linkedin.com/in/brian-rono
-    #Twitter: @brian_kipkorir_
-    #Instagram: @brian_kipkorir_ 
-- 😄 Pronouns: Him
-    Let's foster an inclusive community where everyone feels respected and valued!
+    [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=red)](mailto:brianrono16@gmail.com)
+    [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=aqua)](https://twitter.com/brian_kipkorir_/)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/brian-rono)
+    [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=orange)](https://www.instagram.com/brian_kipkorir_/)
+
+- 😄 Pronouns: He
+    [Let's foster an inclusive community where everyone feels respected and valued!]
 - ⚡ Here's a fun fact about me:
-    Despite my quiet personality and introverted nature, I love engaging in discussions and collaborating with others on meaningful projects. While I may not be the loudest voice in the room, I bring a thoughtful and analytical approach to problem-solving, and I enjoy deep conversations and exchanging ideas with fellow developers.
+    [Despite my quiet personality and introverted nature, I love engaging in discussions and collaborating with others on meaningful projects. While I may not be the loudest voice in the room, I bring a thoughtful and analytical approach to problem-solving, and I enjoy deep conversations and exchanging ideas with fellow developers]
 
  
 ### Education
