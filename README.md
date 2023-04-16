@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm Brian Rono and a very interesting person with a diverse set of interests and I've come to enjoy coding, keeping up with the latest technology trends, which shows my passion for innovation. Although I consider myself an introvert, it's not synonymous with shyness or lack of social skills. I have a social side and I strive to create a positive and collaborative environment wherever I go. So, don't hesitate to reach out and connect, even if I may appear quiet at first glance. I'm always open to new conversations and collaborations! Let's work together to create amazing things! I love exploring new technologies and pushing the boundaries of what's possible in software development and I'm always open to networking and engaging with the community! 
+Hello! I'm Brian Rono, a highly interested and diverse individual with a passion for coding and staying updated with the latest technology trends. I thrive on innovation and constantly strive to push the boundaries of what's possible in software development. While I may identify as an introvert, I don't equate it with shyness or a lack of social skills. In fact, I actively work towards creating positive and collaborative environments wherever I go.
+Although I may appear quiet initially, I am always open to new conversations and collaborations. I believe in the power of networking and engaging with the community to create amazing things together. I love exploring new technologies and keeping up with the ever-evolving field of software development. Feel free to reach out and connect with me. Let's work together to create innovative solutions and make a positive impact!
 <!-- ![Colorful Background](https://e0.pxfuel.com/wallpapers/459/183/desktop-wallpaper-dark-colorful-1080-x-2160-blue-and-black.jpg) -->
 
 ### About
@@ -27,7 +28,7 @@ I'm Brian Rono and a very interesting person with a diverse set of interests and
     - Let's foster an inclusive community where everyone feels respected and valued!
 - ⚡ Here's a fun fact about me:
     - Despite my quiet personality and introverted nature, I love engaging in discussions and collaborating with others on meaningful projects. While I may not be the loudest voice in the room, I bring a thoughtful and analytical approach to problem-solving, and I enjoy deep conversations and exchanging ideas with fellow developers
- 
+
 ### Education
 - 2017-2020 Bachelor's Degree in Purchasing and Supplies Management, Dedan Kimathi University of Technology
 - 2023-     Moringa School 
