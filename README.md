@@ -23,7 +23,7 @@ Although I may appear quiet initially, I am always open to new conversations and
     [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=aqua)](https://twitter.com/brian_kipkorir_/)
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/brian-rono)
     [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=orange)](https://www.instagram.com/brian_kipkorir_/)
-
+    [![Spotify](https://img.shields.io/badge/Spotify-Profile-green?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/brianrono)
 - 😄 Pronouns: He
     - Let's foster an inclusive community where everyone feels respected and valued!
 - ⚡ Here's a fun fact about me:
@@ -31,7 +31,7 @@ Although I may appear quiet initially, I am always open to new conversations and
 
 ### Education
 - 2017-2020 Bachelor's Degree in Purchasing and Supplies Management, Dedan Kimathi University of Technology
-- 2023-     Moringa School 
+- 2023-     Software Development, Moringa School 
 
 ### Languages and Tools
 <p align="center">
