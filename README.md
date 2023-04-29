@@ -60,4 +60,5 @@ Although I may appear quiet initially, I am always open to new conversations and
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=brianrono.brianrono)
 
 ### Top Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianrono)](https://github.com/brianrono/github-readme-stats)
