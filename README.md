@@ -56,7 +56,7 @@ Although I may appear quiet initially, I am always open to new conversations and
 
 ### GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=brianrono&show_icons=true&theme=transparent)  
-[![Github Streak](https://streak-stats.demolab.com/?user=brianrono&theme=highcontrast)](https://git.io/streak-stats)
+[![Github Streak](https://streak-stats.demolab.com/?user=brianrono&theme=highcontrast)](https://git.io/streak-stats)  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=brianrono.brianrono)
 
 ### Top Languages
