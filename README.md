@@ -1,5 +1,5 @@
-### Hi there 👋
-Hello! I'm Brian Rono, a highly interested and diverse individual with a passion for coding and staying updated with the latest technology trends. I thrive on innovation and constantly strive to push the boundaries of what's possible in software development. While I may identify as an introvert, I don't equate it with shyness or a lack of social skills. In fact, I actively work towards creating positive and collaborative environments wherever I go.
+### Hello there 👋
+I'm Brian Rono, a highly interested and diverse individual with a passion for coding and staying updated with the latest technology trends. I thrive on innovation and constantly strive to push the boundaries of what's possible in software development. While I may identify as an introvert, I don't equate it with shyness or a lack of social skills. In fact, I actively work towards creating positive and collaborative environments wherever I go.
 Although I may appear quiet initially, I am always open to new conversations and collaborations. I believe in the power of networking and engaging with the community to create amazing things together. I love exploring new technologies and keeping up with the ever-evolving field of software development. Feel free to reach out and connect with me. Let's work together to create innovative solutions and make a positive impact!
 <!-- ![Colorful Background](https://e0.pxfuel.com/wallpapers/459/183/desktop-wallpaper-dark-colorful-1080-x-2160-blue-and-black.jpg) -->
 
@@ -23,14 +23,12 @@ Although I may appear quiet initially, I am always open to new conversations and
     [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=aqua)](https://twitter.com/brian_kipkorir_/)
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/brian-rono)
     [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=orange)](https://www.instagram.com/brian_kipkorir_/)
-- 😄 Pronouns: He
-    - Let's foster an inclusive community where everyone feels respected and valued!
 - ⚡ Here's a fun fact about me:
     - Despite my quiet personality and introverted nature, I love engaging in discussions and collaborating with others on meaningful projects. While I may not be the loudest voice in the room, I bring a thoughtful and analytical approach to problem-solving, and I enjoy deep conversations and exchanging ideas with fellow developers
 
 ### Education
-- 2017-2020 Bachelor's Degree in Purchasing and Supplies Management, Dedan Kimathi University of Technology
-- 2023-     Software Development, Moringa School 
+- 2017-2020 Bachelor's Degree in Purchasing and Supplies Management, Dedan Kimathi University of Technology  
+- 2023    Software Development, Moringa School  
 
 ### Languages and Tools
 <p align="center">
@@ -57,9 +55,9 @@ Although I may appear quiet initially, I am always open to new conversations and
     - Traveling and exploring new places
 
 ### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=brianrono&show_icons=true&theme=transparent)
-
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=brianrono.brianrono)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=brianrono&show_icons=true&theme=transparent)  
+[![Github Streak](https://streak-stats.demolab.com/?user=brianrono&theme=highcontrast)](https://git.io/streak-stats)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=brianrono.brianrono)
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianrono)](https://github.com/brianrono/github-readme-stats)
