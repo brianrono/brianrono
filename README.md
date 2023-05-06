@@ -1,10 +1,10 @@
 ### Hello there 👋
-I'm Brian Rono, a highly interested and diverse individual with a passion for coding and staying updated with the latest technology trends. I thrive on innovation and constantly strive to push the boundaries of what's possible in software development. While I may identify as an introvert, I don't equate it with shyness or a lack of social skills. In fact, I actively work towards creating positive and collaborative environments wherever I go.
-Although I may appear quiet initially, I am always open to new conversations and collaborations. I believe in the power of networking and engaging with the community to create amazing things together. I love exploring new technologies and keeping up with the ever-evolving field of software development. Feel free to reach out and connect with me. Let's work together to create innovative solutions and make a positive impact!
+Meet Brian Rono, a highly interested and diverse individual with a passion for writing and staying upto date with the latest technology trends. I thrive on innovation and constantly strive to push the boundaries of what's possible in software development. While I may identify as an introvert, I don't equate it with shyness or a lack of social skills. In fact, I actively work towards creating positive and collaborative environments wherever I go.  
+I love exploring new technologies and keeping up with the ever-evolving field of software development. Feel free to reach out and connect with me. Let's work together to create innovative solutions and make a positive impact!
 <!-- ![Colorful Background](https://e0.pxfuel.com/wallpapers/459/183/desktop-wallpaper-dark-colorful-1080-x-2160-blue-and-black.jpg) -->
 
 ### About
-- 🔭 I’m currently working on a web application that helps car owners find genuine parts for their vehicles.
+- 🔭 I’m currently working on a web application that helps car owners find genuine parts for their vehicles.  
     The app uses modern web technologies such as React, Redux, and Node.js to provide a user-friendly interface for searching and ordering authentic car parts from verified vendors.
 - 🌱 Currently, I'm focusing on learning:
     Advanced JavaScript concepts such as async/await, Promises, and ES6+ features
@@ -28,7 +28,7 @@ Although I may appear quiet initially, I am always open to new conversations and
 
 ### Education
 - 2017-2020 Bachelor's Degree in Purchasing and Supplies Management, Dedan Kimathi University of Technology  
-- 2023    Software Development, Moringa School  
+- 2023    Software Engineering, Moringa School  
 
 ### Languages and Tools
 <p align="center">
