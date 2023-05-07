@@ -21,8 +21,7 @@ I love exploring new technologies and keeping up with the ever-evolving field of
 - 📫 How to reach me:   
     [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=red)](mailto:brianrono16@gmail.com)
     [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=aqua)](https://twitter.com/brian_kipkorir_/)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/brian-rono)
-    [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=orange)](https://www.instagram.com/brian_kipkorir_/)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/brian-rono-915223113)    [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=orange)](https://www.instagram.com/brian_kipkorir_/)
 - ⚡ Here's a fun fact about me:
     - Despite my quiet personality and introverted nature, I love engaging in discussions and collaborating with others on meaningful projects. While I may not be the loudest voice in the room, I bring a thoughtful and analytical approach to problem-solving, and I enjoy deep conversations and exchanging ideas with fellow developers
 
