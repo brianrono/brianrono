@@ -48,9 +48,9 @@ I'm  Brian Rono, a passionate writer with a deep-rooted love for technology. Dri
 
 ### GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=brianrono&show_icons=true&theme=transparent)  
-[![Github Streak](https://streak-stats.demolab.com/?user=brianrono&theme=highcontrast)](https://git.io/streak-stats)]    
+[![Github Streak](https://streak-stats.demolab.com/?user=brianrono&theme=highcontrast)](https://git.io/streak-stats)    
 
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianrono&hide_progress=true&langs_count=8)](https://github.com/brianrono/github-readme-stats)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brio16)](https://github.com/brianrono/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brian Rono)](https://github.com/brianrono/github-readme-stats)
