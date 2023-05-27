@@ -53,4 +53,4 @@ I'm  Brian Rono, a passionate writer with a deep-rooted love for technology. Dri
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianrono&hide_progress=true&langs_count=8)](https://github.com/brianrono/github-readme-stats)
-[![Brian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brianrono)](https://github.com/brianrono/github-readme-stats)
+[![Brian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brio16)](https://github.com/brianrono/github-readme-stats)
