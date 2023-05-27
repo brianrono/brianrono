@@ -3,15 +3,10 @@ I'm  Brian Rono, a passionate writer with a deep-rooted love for technology. Dri
 
 ### About
 - 🔭 I’m currently working on a web application that helps car owners find genuine parts for their vehicles.  
-    The app uses modern web technologies such as React, Redux, and Node.js to provide a user-friendly interface for searching and ordering authentic car parts from verified vendors.
-- 🌱 Currently, I'm focusing on learning:
-    Advanced JavaScript concepts
-- 👯 I'm passionate about contributing to open source projects. Here are some areas I'm particularly excited about collaborating on:
-    - Machine learning and artificial intelligence
-    - Front-end web development using modern frameworks like React.
+- 🌱 Currently, I'm focusing on learning: Advanced JavaScript concepts  
+- 👯 I'm passionate about contributing to open source projects. - Machine learning and artificial intelligence  
 - 🤔 As a developer, I'm constantly learning and improving my skills. Currently, I'm seeking assistance and guidance with:
-    - Understanding advanced data structures and algorithms
-    - Implementing effective testing strategies for my projects
+    - Understanding advanced data structures and algorithms  
 - 💬 I'm always happy to share my knowledge and experiences with others. Feel free to ask me about:
     - Front-end web development using modern frameworks like React
     - Version control with Git and best practices for collaborative development
@@ -57,4 +52,5 @@ I'm  Brian Rono, a passionate writer with a deep-rooted love for technology. Dri
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianrono)](https://github.com/brianrono/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianrono&hide_progress=true&langs_count=8)](https://github.com/brianrono/github-readme-stats)
+[![Brian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brianrono)](https://github.com/brianrono/github-readme-stats)
