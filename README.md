@@ -36,7 +36,7 @@ I'm  Brian Rono, a passionate writer with a deep-rooted love for technology. Dri
     <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" title="Redux" width="40" height="40" />
     <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" title="GraphQL" width="40" height="40" />
 </p>
-
+[CodeWars](https://www.codewars.com/users/brianrono)
 
 ### Interests
     - Web development
